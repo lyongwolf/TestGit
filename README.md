@@ -1,12 +1,12 @@
 this is a TestGit project..
 
-
 $$
 f(n) = \sum_{i = 1}^{n}
 $$
 
-
-
+$$
+g(i) = \sum_{i = 1} ^{n}
+$$
 
 ```java
 public class Main {
@@ -15,6 +15,3 @@ public class Main {
     }
 }
 ```
-
-
-
