@@ -5,6 +5,10 @@ $$
 f(n) = \sum_{i = 0}^{n}
 $$
 
+$$
+g(n) = \sum_{i = 0}^{n}
+$$
+
 ```java
 public class Main {
 	public static void main(String[] args) {
