@@ -1,17 +1,1 @@
-this is a TestGit project..
-
-$$
-f(n) = \sum_{i = 1}^{n}
-$$
-
-$$
-g(i) = \sum_{i = 1} ^{n}
-$$
-
-```java
-public class Main {
-    public static void main(String[] args) {
-		System.out.println("Hello World");
-    }
-}
-```
+this is a TestGit project...
